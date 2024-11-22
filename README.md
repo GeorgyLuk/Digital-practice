@@ -1,2 +1,2 @@
 # Digital-practice
-just my study tasks
+just my study tasks from university
